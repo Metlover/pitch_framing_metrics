@@ -37,7 +37,7 @@ For example, the single-season leaders in Strikes Stolen - Lost Strikes from 201
 
 ## pitcher_framing_career.sql
 
-Calculates the number of strikes stolen and strikes lost by catchers for individual pitchers over the course of their careers, in addition to nFIP and rFIP (explained here: [link coming soon!]).
+Calculates the number of strikes stolen and strikes lost by catchers for individual pitchers over the course of their careers, in addition to nFIP and rFIP (explained [here](http://www.johnedwardsstats.com/2018/10/introducing-rfip-and-nfip.html)).
 For example, the leaders in IP Outs from 2015-2018:
 
 | First Name | Last Name | Stolen Strikes | Lost Strikes | Strikes | Balls | K    | BB  | IP Outs | HR  | HBP | FIP    | rFIP       | nFIP       |
